@@ -1,0 +1,22 @@
+body {
+    margin-top: 50px;
+    background-color: #4c4c4c;
+}
+#content {
+    background-color: #fff;
+}
+
+/**/
+#footer {
+    color: #fff;
+}
+#footer a {
+    color: #fff;
+    text-decoration: underline;
+}
+#footer a:hover {
+    color: #faa21d;
+}
+#footer .copyright {
+    border-top: 1px dotted #dedede;
+}
