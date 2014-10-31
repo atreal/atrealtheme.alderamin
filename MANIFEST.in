@@ -1,0 +1,2 @@
+graft src/atrealtheme
+include *.cfg *.rst *.in
